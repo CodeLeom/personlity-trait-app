@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import Spinner from "../components/Spinner";
-import BackBtn from "../components/BackBtn";
+import Spinner from "../Components/Spinner";
+import BackBtn from "../Components/BackBtn";
 
 function NewTest() {
   const [questions, setQuestions] = useState([]);
