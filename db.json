@@ -1,0 +1,8 @@
+{
+    "questions": [
+      { "id": 1, "text": "Do you prefer reading to partying?", "introvertScore": 2, "extrovertScore": 0 },
+      { "id": 2, "text": "Do you enjoy large gatherings?", "introvertScore": 0, "extrovertScore": 2 },
+      { "id": 3, "text": "Do you often prefer solitude?", "introvertScore": 2, "extrovertScore": 0 },
+      { "id": 4, "text": "Do you feel energized around people?", "introvertScore": 0, "extrovertScore": 2 }
+    ]
+  }
