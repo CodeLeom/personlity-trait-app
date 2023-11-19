@@ -1,8 +1,12 @@
-# React + Vite
+# Personality Trait Test App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This App is a basic React application, created to demo mock backend, and display personality trait test for users.
 
-Currently, two official plugins are available:
+## Features
+- Json server is used for the mock backend
+- React is used for the frontend
+- CSS is without any framework
+- test with Jest
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshot
+![the screenshot of the personality app](./personality-trait.png)
