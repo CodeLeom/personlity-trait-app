@@ -9,6 +9,4 @@ This App is a basic React application, created to demo mock backend, and display
 - test with Jest
 
 ## Screenshot
-![the screenshot of the personality app][scrrenshot]
-
-[scrrenshot]: ./personality-trait.png
+![the screenshot of the personality app](/personality-trait.png "the screenshot of the personality app")
