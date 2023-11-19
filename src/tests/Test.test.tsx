@@ -6,7 +6,7 @@ import NewTest from "../Pages/NewTest";
 
 jest.mock("axios");
 
-
+const mockedAxios = axios as jest.Mocked<typeof axios>;
 // Define the mock response data
 const mockResponse = {
   data: [
